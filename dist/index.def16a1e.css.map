@@ -1,0 +1,1 @@
+{"mappings":"AAIA;;;;;AAKA","sources":["style/index.scss"],"sourcesContent":["$bg-color: #242424;\n$primary-color: #fff;\n$title-color: #a2d1fc;\n\nbody {\n    background-color: $bg-color;\n    color: $primary-color;\n}\n\nh1 {\n    color: $title-color;\n}"],"names":[],"version":3,"file":"index.def16a1e.css.map","sourceRoot":"/__parcel_source_root/"}
