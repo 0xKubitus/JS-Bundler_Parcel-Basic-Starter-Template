@@ -3,15 +3,17 @@
 [![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project.svg
 )](https://www.thehackingproject.org/)
 
+<a href="https://parceljs.org/" target="_blank">
+<img alt="Parcel" src="https://user-images.githubusercontent.com/19409/135924939-03845d0b-e7bb-414b-89b6-e627dfa9f614.png" width="749">
+</a>
+  
 # my Parcel (very) Basic Starter Template
 
 </div>
 
-<p align="center">
-  <a href="https://parceljs.org/" target="_blank">
-    <img alt="Parcel" src="https://user-images.githubusercontent.com/19409/135924939-03845d0b-e7bb-414b-89b6-e627dfa9f614.png" width="749">
-  </a>
-</p>
+
+
+
 
 Simply clone this repo and run the following commands:
 ```
