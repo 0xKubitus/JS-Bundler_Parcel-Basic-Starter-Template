@@ -1,17 +1,11 @@
 <div align="center">
 
-[![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project.svg
-)](https://www.thehackingproject.org/)
+  [![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project.svg
+  )](https://www.thehackingproject.org/)
 
-
-  
-# my Parcel (very) Basic Starter Template
+  # my Parcel (very) Basic Starter Template
 
 </div>
-
-
-
-
 
 Simply clone this repo and run the following commands:
 ```
@@ -22,13 +16,15 @@ That's it!
 You're good to go with a local server running your `index.html` page.
 (which imports `index.js` and `index.scss` files from `src/` and `style/` folders)
 
+
+
+# Qu'est ce que Parcel ?
+
 <p align="center">
   <a href="https://parceljs.org/" target="_blank">
   <img alt="Parcel" src="https://user-images.githubusercontent.com/19409/135924939-03845d0b-e7bb-414b-89b6-e627dfa9f614.png" width="749">
   </a>
 </p>
-
-# Qu'est ce que Parcel ?
 
 > Parcel is a zero configuration build tool for the web. It combines a great out-of-the-box development experience with a scalable architecture that can take your project from just getting started to massive production application.
 
