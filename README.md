@@ -5,14 +5,14 @@
 
 # my Parcel (very) Basic Starter Template
   
+</div>
+
 Simply clone this repo and run the following commands:
 ```
   npm i
   npm start
 ```
 That's it! You're good to go with a local server running your `index.html` page (branched to `index.js` and `index.scss` files in `src/` and `style/` folders)
-
-</div>
 
 # Qu'est ce que Parcel ?
 
