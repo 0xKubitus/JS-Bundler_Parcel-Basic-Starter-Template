@@ -12,7 +12,9 @@ Simply clone this repo and run the following commands:
   npm i
   npm start
 ```
-That's it! You're good to go with a local server running your `index.html` page (branched to `index.js` and `index.scss` files in `src/` and `style/` folders)
+That's it!
+You're good to go with a local server running your `index.html` page.
+(which imports `index.js` and `index.scss` files from `src/` and `style/` folders)
 
 # Qu'est ce que Parcel ?
 
@@ -24,9 +26,4 @@ Parcel est basé sur ce qu'il appelle des "ressources", c'est-à-dire les fichie
 
 Sa <a href="https://fr.parceljs.org/getting_started.html">documentation</a> (en Français, si si !) est très bien faite avec plein d'exemples.
 
-Pour l'utiliser, c'est très simple, on peut lancer simplement la commande suivante par exemple :
-```
-$ parcel index.html
-```
-
-Cela déclenche un petit serveur à l'adresse http://localhost:1234 qui va nous servir notre fichier HTML ainsi que toutes les ressources associées (JS, CSS) compilées en bundle.
+Il déclenche un petit serveur à l'adresse http://localhost:1234 qui va nous servir notre fichier HTML ainsi que toutes les ressources associées (JS, CSS) compilées en bundle.
