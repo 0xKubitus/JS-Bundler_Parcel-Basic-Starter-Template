@@ -4,8 +4,14 @@
 )](https://www.thehackingproject.org/)
 
 # my Parcel (very) Basic Starter Template
-  
+
 </div>
+
+<p align="center">
+  <a href="https://parceljs.org/" target="_blank">
+    <img alt="Parcel" src="https://user-images.githubusercontent.com/19409/135924939-03845d0b-e7bb-414b-89b6-e627dfa9f614.png" width="749">
+  </a>
+</p>
 
 Simply clone this repo and run the following commands:
 ```
@@ -17,6 +23,8 @@ You're good to go with a local server running your `index.html` page.
 (which imports `index.js` and `index.scss` files from `src/` and `style/` folders)
 
 # Qu'est ce que Parcel ?
+
+> Parcel is a zero configuration build tool for the web. It combines a great out-of-the-box development experience with a scalable architecture that can take your project from just getting started to massive production application.
 
 Parcel se veut être le bundler JS le plus simple à utiliser, car il n'a pas besoin d'un fichier de configuration complexe (et même, il fonctionne généralement très bien sans aucune configuration). De plus, il est extrêmement rapide, car il peut utiliser plusieurs "threads" (plusieurs cœurs de votre CPU) à la fois, et a un système de cache très bien géré.
 
